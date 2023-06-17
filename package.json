@@ -1,18 +1,4 @@
 {
-  "name": "fca-priyansh3",
-  "version": "1.4.3",
-  "description": "Facebook-chat-api protect and deploy by Priyansh",
-  "main": "Index.js",
-  "scripts": {
-    "test": "mocha",
-    "lint": "./node_modules/.bin/eslint *.js",
-    "prettier": "prettier utils.js src/* --write"
-  },
-  "author": "Priyansh Rajput",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/KanzuXHorizon/Fca-Horizon-Remastered/issues"
-  },
   "homepage": "https://github.com/Schmavery/facebook-chat-api#readme",
   "keywords": [
     "facebook",
@@ -22,7 +8,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "fca-disme",
+  "name": "fca-priyansh3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/D-Jukie/fca-priyansh3.git"
